@@ -1,0 +1,17 @@
+Data
+Data/Administrative boundaries
+Data/Crop yield
+Data/eBee images
+Data/Electric conductivity
+Data/Elevation and soil depth
+Data/Field boundaries
+Data/Organic matter
+R_functions
+R_output
+R_output/R_rasterfiles
+R_output/R_shapefiles
+R_output/R_graphs_tables
+R_output/R_scatterplots
+QGIS_mapping
+QGIS_mapping/QGIS_output_maps
+QGIS_mapping/QGIS_projects_data
